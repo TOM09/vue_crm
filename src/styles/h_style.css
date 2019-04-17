@@ -1,0 +1,54 @@
+.h_mainBorder{
+  padding-top:10% ;
+  width: 100%;
+  /*border:30px solid #f0f2f5;*/
+
+}
+.h_mainIndex{
+  width: 50%;
+  margin-left: 25%;
+}
+.el-tabs__item{
+  font-size: 16px;
+}
+.el-date-editor .el-range-separator{
+  padding: 0px;
+}
+.hitemlisttop{
+  padding-top: 8px;
+  background: #e6f7ff;
+  border: 1px solid #bae7ff;
+  padding-left: 15px;
+  padding-bottom: 8px;
+}
+.hitemlisttop span{
+  margin: 0px 8px;
+}
+.hitemlisttop .el-button--text{
+  margin-left: 10px;
+}
+/* .hblock .el-table thead{
+  background: #fafafa;
+  color: #000;
+} */
+.hitemList .el-collapse-item__wrap{
+  padding-top: 20px;
+  border-bottom: none;
+}
+
+.hitemList .el-table__header{
+  padding-top: 20px;
+}
+.hitemList .el-pagination{
+  padding: 20px;
+  text-align: center;
+}
+.hitemlistbtn{
+  background: #fff;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-left: 0px;
+}
+.haddOrder{
+  background: #fff;
+}

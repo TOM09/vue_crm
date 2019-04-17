@@ -1,0 +1,41 @@
+{
+    "extends": "standard",
+    "installedESLint": true,
+    "root": true,
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module"
+    },
+    "env": {
+        "browser": true,
+        "node": true
+    },
+    "plugins": [ "html", "standard" ],
+    "rules": {
+        "indent": 0,
+        "quotes": [0, "single"],
+        "semi": [0, "always"],
+        "no-console": [0],
+        "no-empty": 2,
+        "no-eq-null": 2,
+        "no-new": 0,
+        "no-fallthrough": 0,
+        "no-unreachable": 0,
+        "space-after-keywords": [0, "always"],
+        "spaced-comment": 0,
+        "no-tabs": 0,
+      "keyword-spacing":0,
+      "space-before-function-paren":0,
+      "key-spacing": 0,
+      "eqeqeq": 0,
+      "space-in-parens": 0,
+      "space-before-blocks": 0,
+      "comma-spacing": 0,
+      "no-alert": [0],
+      "no-trailing-spaces": [0],
+      "func-call-spacing": [0],
+      "camelcase": 0,
+      "comma-dangle": 0,
+      "no-mixed-spaces-and-tabs":0
+    }
+}
